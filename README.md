@@ -1,1 +1,1 @@
-Redraw of Figure 9 in Appendix.
+Redrawing of Figure 9 in the Appendix.
