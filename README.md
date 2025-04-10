@@ -28,4 +28,6 @@ url={https://openreview.net/forum?id=6RjQ54M1rM}
 ```
 
 
+## Acknowledgement
+
 We would like to thank the authors for releasing the public repository: [ICML-2023-FedLAW](https://github.com/ZexiLee/ICML-2023-FedLAW/tree/main)
