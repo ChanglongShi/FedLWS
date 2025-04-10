@@ -4,7 +4,7 @@
 **This is the official implementation of the ICLR 2025 paper "[FedLWS: Federated Learning with Adaptive Layer-wise Weight Shrinking](https://openreview.net/pdf?id=6RjQ54M1rM)".**
 
 ## FedLWS
-You can run FedLWS with the following command:
+Our code is based on Python version 3.7 and PyTorch version 1.13.1. You can run FedLWS with the following command:
 
 ```
 python main.py --dataset cifar10 --local_model ResNet20 --server_method fedlws --client_method local_train #FedLWS on CIFAR-10 dataset with ResNet20 model
