@@ -1,5 +1,6 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2503.15111-b31b1b.svg)](https://arxiv.org/abs/2503.15111)
+
 **This is the official implementation of the ICLR 2025 paper "[FedLWS: Federated Learning with Adaptive Layer-wise Weight Shrinking](https://openreview.net/pdf?id=6RjQ54M1rM)".**
 
 ## Running
